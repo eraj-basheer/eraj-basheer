@@ -6,6 +6,7 @@
 I’m an aspiring SOC Analyst with a strong interest in cybersecurity, threat detection, security monitoring, and incident response. I’m currently building my technical knowledge and practical experience through hands-on labs, cybersecurity projects, and continuous learning.
 I use this GitHub profile to document my learning journey and showcase practical projects, investigations, write-ups, and security labs that demonstrate my growing understanding of defensive cybersecurity.
 
+Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my [mention key skills] and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
@@ -14,6 +15,15 @@ I am a recent graduate with a profound interest in technology and a dedication t
 - pfSense Firewall
 - Suricata IDS/IPS 
 - LimaCharlie EDR and SOar
+
+# Project Overview 
+|     Project     |                 Skills                |     Tools       |      Link       |
+| --------------- | ------------------------------------- | --------------- | --------------- |
+| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
+|                 |                                       |                 |                 |
+|                 |                                       |                 |                 |
+
+
 
 
 ## Skills
