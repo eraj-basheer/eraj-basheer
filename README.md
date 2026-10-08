@@ -37,7 +37,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-e67717?&style=for-the-badge&logo=Splunk&logoColor=white" />
     
 </div>
 
