@@ -43,7 +43,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ### Automation
 <div>
-    <img src="https://img.shields.io/badge/-Tines-EF3B2D?&style=for-the-badge&logo=Tines&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tines-9584e3?&style=for-the-badge&logo=Tines&logoColor=white" />
 </div>
 
 ## Projects
