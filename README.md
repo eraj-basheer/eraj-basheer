@@ -31,7 +31,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Lima-Charlie-00A4EF?&style=for-the-badge&logo=Lima-Charlie&logoColor=white" />
     
 </div>
 
@@ -42,7 +42,10 @@ I am a recent graduate with a profound interest in technology and a dedication t
     
 </div>
 
-
+### Automation
+<div>
+    <img src="https://img.shields.io/badge/-Tines-EF3B2D?&style=for-the-badge&logo=Tines&logoColor=white" />
+</div>
 
 ## Projects
 - Detection Lab
