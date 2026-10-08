@@ -31,7 +31,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Lima-Charlie-00A4EF?&style=for-the-badge&logo=Lima-Charlie&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Lima_Charlie-00A4EF?&style=for-the-badge&logo=Lima_Charlie&logoColor=white" />
     
 </div>
 
