@@ -27,7 +27,22 @@ Skills learned include endpoint detection and response (EDR), detection rule cre
 
 
 
+## Project Overview
 
+|     Project     |                 Skills                |     Tools       |
+| --------------- | ------------------------------------- | --------------- |
+| [pfSense Firewall Project](https://github.com/eraj-basheer/pfSense-Firewal) | Network segmentation, Firewall rule configuration, Traffic testing | pfSense, VirtualBox, Kali Linux, Debian, Metasploitable |
+| [Suricata IDS/IPS](link-to-repo) | Intrusion detection, Custom rule writing, Alert analysis | Suricata, pfSense, Kali Linux, Metasploitable |
+| [LimaCharlie EDR and SOAR](link-to-repo) | Endpoint detection, Detection engineering, Security automation, Incident response | LimaCharlie, Tines, Slack, Windows 10, Mimikatz |
+
+---
+
+## Skills Summary
+
+- **Network Security:** Segmentation, firewall rules, DMZ design
+- **Detection & Monitoring:** IDS/IPS, EDR, custom detection rules
+- **Automation:** SOAR playbooks, API integrations
+- **Environments:** VirtualBox labs, Windows, Linux
 
 ## Tools
 
