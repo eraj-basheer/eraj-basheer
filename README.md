@@ -3,13 +3,11 @@
 
 
 ## Objective
-I’m an aspiring SOC Analyst with a strong interest in cybersecurity, threat detection, security monitoring, and incident response. I’m currently building my technical knowledge and practical experience through hands-on labs, cybersecurity projects, and continuous learning.
+ strong interest in cybersecurity, threat detection, security monitoring, and incident response. I’m currently building my technical knowledge and practical experience through hands-on labs, cybersecurity projects, and continuous learning.
 I use this GitHub profile to document my learning journey and showcase practical projects, investigations, write-ups, and security labs that demonstrate my growing understanding of defensive cybersecurity.
 
-Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my [mention key skills] and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
+Hi, I'm Eraj Basheer and this is my Cyber Security Portfolio. 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 Skills learned include endpoint detection and response (EDR), detection rule creation, security alert monitoring, SOAR workflow automation, API integration, Slack notifications, and automated incident response.
 
@@ -17,6 +15,7 @@ Skills learned include endpoint detection and response (EDR), detection rule cre
 - [pfSense Firewall](https://github.com/eraj-basheer/pfSense-Firewall)
 - [Suricata IDS/IPS](https://github.com/eraj-basheer/Suricata-IDS-IPS)
 - [LimaCharlie EDR and Tines SOAR](https://github.com/eraj-basheer/LimaCharlie-EDR-and-SOAR)
+
 
 ## Project Overview 
 |     Project     |                 Skills                |     Tools       |  
@@ -28,16 +27,7 @@ Skills learned include endpoint detection and response (EDR), detection rule cre
 
 
 
-## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 
