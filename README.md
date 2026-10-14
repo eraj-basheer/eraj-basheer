@@ -1,6 +1,7 @@
 # Hello, I'm Eraj Basheer
 <a href="http://www.linkedin.com/in/eraj-basheer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ej25)
+[![LetsDefend](https://img.shields.io/badge/LetsDefend-1B3A6B?style=for-the-badge&logoColor=white)](https://app.letsdefend.io/user/ej25)
 
 ## About Me
 
