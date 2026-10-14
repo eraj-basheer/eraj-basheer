@@ -14,9 +14,9 @@ I am a recent graduate with a profound interest in technology and a dedication t
 Skills learned include endpoint detection and response (EDR), detection rule creation, security alert monitoring, SOAR workflow automation, API integration, Slack notifications, and automated incident response.
 
 ## Projects
-- (pfSense Firewall)[https://github.com/eraj-basheer/pfSense-Firewall]
-- (Suricata IDS/IPS)[]
-- (LimaCharlie EDR and Tines SOAR)[]
+- [pfSense Firewall](https://github.com/eraj-basheer/pfSense-Firewall)
+- [Suricata IDS/IPS](https://github.com/eraj-basheer/Suricata-IDS-IPS)
+- [LimaCharlie EDR and Tines SOAR](https://github.com/eraj-basheer/LimaCharlie-EDR-and-SOAR)
 
 ## Project Overview 
 |     Project     |                 Skills                |     Tools       |  
