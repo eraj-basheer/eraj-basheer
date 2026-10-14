@@ -11,17 +11,19 @@ Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a ch
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-## Projects
-- pfSense Firewall
-- Suricata IDS/IPS 
-- LimaCharlie EDR and SOar
+Skills learned include endpoint detection and response (EDR), detection rule creation, security alert monitoring, SOAR workflow automation, API integration, Slack notifications, and automated incident response.
 
-# Project Overview 
-|     Project     |                 Skills                |     Tools       |      Link       |
-| --------------- | ------------------------------------- | --------------- | --------------- |
-| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
-|                 |                                       |                 |                 |
-|                 |                                       |                 |                 |
+## Projects
+- (pfSense Firewall)[https://github.com/eraj-basheer/pfSense-Firewall]
+- (Suricata IDS/IPS)[]
+- (LimaCharlie EDR and Tines SOAR)[]
+
+## Project Overview 
+|     Project     |                 Skills                |     Tools       |  
+| --------------- | ------------------------------------- | --------------- | 
+| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|   
+|                 |                                       |                 |  
+|                 |                                       |                 | 
 
 
 
@@ -38,7 +40,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
