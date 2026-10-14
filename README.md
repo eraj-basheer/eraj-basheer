@@ -3,28 +3,14 @@
 
 
 ## About Me
- strong interest in cybersecurity, threat detection, security monitoring, and incident response. I’m currently building my technical knowledge and practical experience through hands-on labs, cybersecurity projects, and continuous learning.
-I use this GitHub profile to document my learning journey and showcase practical projects, investigations, write-ups, and security labs that demonstrate my growing understanding of defensive cybersecurity.
 
-Hi, I'm Eraj Basheer and this is my Cyber Security Portfolio. 
+Hi, I'm Eraj Basheer and this is my Cyber Security Portfolio. Through my projects I demonstrate my hands-on experience building and testing security labs. My projects cover network segmentation and firewalls, intrusion detection, and endpoint detection with automated incident response. 
 
-
-Skills learned include endpoint detection and response (EDR), detection rule creation, security alert monitoring, SOAR workflow automation, API integration, Slack notifications, and automated incident response.
 
 ## Projects
 - [pfSense Firewall](https://github.com/eraj-basheer/pfSense-Firewall)
 - [Suricata IDS/IPS](https://github.com/eraj-basheer/Suricata-IDS-IPS)
 - [LimaCharlie EDR and Tines SOAR](https://github.com/eraj-basheer/LimaCharlie-EDR-and-SOAR)
-
-
-## Project Overview 
-|     Project     |                 Skills                |     Tools       |  
-| --------------- | ------------------------------------- | --------------- | 
-| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|   
-|                 |                                       |                 |  
-|                 |                                       |                 | 
-
-
 
 
 ## Project Overview
@@ -35,7 +21,6 @@ Skills learned include endpoint detection and response (EDR), detection rule cre
 | [Suricata IDS/IPS](link-to-repo) | Intrusion detection, Custom rule writing, Alert analysis | Suricata, pfSense, Kali Linux, Metasploitable |
 | [LimaCharlie EDR and SOAR](link-to-repo) | Endpoint detection, Detection engineering, Security automation, Incident response | LimaCharlie, Tines, Slack, Windows 10, Mimikatz |
 
----
 
 ## Skills Summary
 
@@ -44,8 +29,9 @@ Skills learned include endpoint detection and response (EDR), detection rule cre
 - **Automation:** SOAR playbooks, API integrations
 - **Environments:** VirtualBox labs, Windows, Linux
 
-## Tools
 
+
+## Tools
 
 ### Network
 <div>
