@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi, I'm Eraj Basheer and this is my Cyber Security Portfolio. Through my projects I demonstrate my hands-on experience building and testing security labs. My projects cover network segmentation and firewalls, intrusion detection, and endpoint detection with automated incident response. 
+Hi, I'm Eraj Basheer and this is my Cyber Security Portfolio. Through my projects I demonstrate my hands-on experience building and testing security labs. My projects cover network segmentation and firewalls, intrusion detection, and endpoint detection with automated incident response. I also practise SOC monitoring and alert investigation on [LetsDefend](https://app.letsdefend.io/user/ej25), working through triaging alerts and writing up incident findings.
 
 
 ## Projects
