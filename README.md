@@ -2,7 +2,7 @@
 <a href="http://www.linkedin.com/in/eraj-basheer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-## Objective
+## About Me
  strong interest in cybersecurity, threat detection, security monitoring, and incident response. I’m currently building my technical knowledge and practical experience through hands-on labs, cybersecurity projects, and continuous learning.
 I use this GitHub profile to document my learning journey and showcase practical projects, investigations, write-ups, and security labs that demonstrate my growing understanding of defensive cybersecurity.
 
